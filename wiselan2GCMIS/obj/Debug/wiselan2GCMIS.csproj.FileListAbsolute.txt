@@ -1,0 +1,108 @@
+E:\Projects\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+E:\Projects\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+E:\Projects\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+E:\Projects\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+C:\Temp\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+C:\Temp\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+C:\Temp\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+C:\Temp\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+C:\Temp\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+C:\Temp\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+C:\Temp\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+C:\Temp\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+C:\Temp\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+E:\Temp\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+E:\Temp\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+E:\Temp\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+E:\Temp\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\ResolveAssemblyReference.cache
+E:\SharedHD\Aegis_AP_已改\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+E:\SharedHD\Aegis_AP_已改\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+E:\SharedHD\Aegis_AP_已改\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\ResolveAssemblyReference.cache
+E:\SharedHD\Aegis_AP_已改\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+E:\SharedHD\Aegis_AP_已改\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+E:\Projects\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+E:\Projects\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+E:\Projects\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+E:\Projects\Aegis_AP\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+E:\Projects\Aegis_AP_2015\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+E:\Projects\Aegis_AP_2015\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+E:\Projects\Aegis_AP_2015\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+E:\Projects\Aegis_AP_2015\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+E:\Projects\Aegis_AP_2015\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+E:\SharedHD\Projects\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+E:\SharedHD\Projects\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+E:\SharedHD\Projects\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+E:\SharedHD\Projects\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+E:\SharedHD\Projects\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+E:\SharedHD\Projects\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csprojResolveAssemblyReference.cache
+E:\SharedHD\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+E:\SharedHD\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+E:\SharedHD\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+E:\SharedHD\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+E:\SharedHD\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+E:\SharedHD\Projects\AP_2013\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+E:\SharedHD\Projects\AP_2013\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+E:\SharedHD\Projects\AP_2013\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+E:\SharedHD\Projects\AP_2013\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+E:\SharedHD\Projects\AP_2013\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+D:\SharedHD\Projects\AP_2013\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+D:\SharedHD\Projects\AP_2013\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+D:\SharedHD\Projects\AP_2013\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+D:\SharedHD\Projects\AP_2013\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+D:\SharedHD\Projects\AP_2013\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+D:\SharedHD\Projects\AP_2013\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csprojResolveAssemblyReference.cache
+D:\SharedHD\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+D:\SharedHD\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+D:\SharedHD\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+D:\SharedHD\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+D:\SharedHD\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+D:\SharedHD\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csprojResolveAssemblyReference.cache
+E:\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+E:\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+E:\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+E:\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+E:\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+E:\Projects\AP_2015\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csprojResolveAssemblyReference.cache
+E:\Projects\VS_2017\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+E:\Projects\VS_2017\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+E:\Projects\VS_2017\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+E:\Projects\VS_2017\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csproj.CoreCompileInputs.cache
+E:\Projects\VS_2017\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+E:\Projects\VS_2017\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+E:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+E:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+E:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+E:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csproj.CoreCompileInputs.cache
+E:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+E:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+C:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+C:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+C:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+C:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csproj.CoreCompileInputs.cache
+C:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+C:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+C:\Projects\VS_2017\Console\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csprojAssemblyReference.cache
+C:\Projects\VS_2019\Console\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+C:\Projects\VS_2019\Console\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+C:\Projects\VS_2019\Console\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+C:\Projects\VS_2019\Console\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csproj.CoreCompileInputs.cache
+C:\Projects\VS_2019\Console\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+C:\Projects\VS_2019\Console\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+C:\Projects\VS_2019\Console\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csprojAssemblyReference.cache
+C:\Users\HCheng03\OneDrive - dentsu\桌面\員工基本資料檔(Robert 交接)\wiselan2GCMIS_20210604\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+C:\Users\HCheng03\OneDrive - dentsu\桌面\員工基本資料檔(Robert 交接)\wiselan2GCMIS_20210604\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+C:\Users\HCheng03\OneDrive - dentsu\桌面\員工基本資料檔(Robert 交接)\wiselan2GCMIS_20210604\wiselan2GCMIS\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+C:\Users\HCheng03\OneDrive - dentsu\桌面\員工基本資料檔(Robert 交接)\wiselan2GCMIS_20210604\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csprojAssemblyReference.cache
+C:\Users\HCheng03\OneDrive - dentsu\桌面\員工基本資料檔(Robert 交接)\wiselan2GCMIS_20210604\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csproj.CoreCompileInputs.cache
+C:\Users\HCheng03\OneDrive - dentsu\桌面\員工基本資料檔(Robert 交接)\wiselan2GCMIS_20210604\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+C:\Users\HCheng03\OneDrive - dentsu\桌面\員工基本資料檔(Robert 交接)\wiselan2GCMIS_20210604\wiselan2GCMIS\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
+C:\Users\HCheng03\OneDrive - dentsu\桌面\正式程式\wiselan2GCMIS_202202081134\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe.config
+C:\Users\HCheng03\OneDrive - dentsu\桌面\正式程式\wiselan2GCMIS_202202081134\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.exe
+C:\Users\HCheng03\OneDrive - dentsu\桌面\正式程式\wiselan2GCMIS_202202081134\wiselan2GCMIS\bin\Debug\wiselan2GCMIS.pdb
+C:\Users\HCheng03\OneDrive - dentsu\桌面\正式程式\wiselan2GCMIS_202202081134\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.csproj.CoreCompileInputs.cache
+C:\Users\HCheng03\OneDrive - dentsu\桌面\正式程式\wiselan2GCMIS_202202081134\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.exe
+C:\Users\HCheng03\OneDrive - dentsu\桌面\正式程式\wiselan2GCMIS_202202081134\wiselan2GCMIS\obj\Debug\wiselan2GCMIS.pdb
