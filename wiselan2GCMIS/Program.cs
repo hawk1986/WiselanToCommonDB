@@ -2414,7 +2414,9 @@ namespace wiselan2GCMIS
                     sResult = "AAA";
                     break;
                 case "AMT":
-                    sResult = "Amnet";
+                case "DSC":
+                case "dentsu Solution Center":
+                    sResult = "DSC";
                     break;
                 case "CT":
                     sResult = "Carat";
@@ -2453,7 +2455,9 @@ namespace wiselan2GCMIS
                             sResult = "AAA";
                             break;
                         case "AMT":
-                            sResult = "Amnet";
+                        case "DSC":
+                        case "dentsu Solution Center":
+                            sResult = "DSC";
                             break;
                         case "CT":
                             if (deptCode.Substring(0, 1) == "2")
